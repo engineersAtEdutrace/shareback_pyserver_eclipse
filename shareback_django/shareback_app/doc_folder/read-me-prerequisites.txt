@@ -1,0 +1,13 @@
+Note:-
+    -Executable commands are written in between curly braces {...execuatable_commands...}
+    -Comments are written in ("...comments...")
+
+
+Libraries:-
+    - MYSQL-CONNECTOR-PYTHON
+
+STRUCTURES:-
+    - existing database {CREATE DATABASE SHAREBACK}
+    - create models in models.py and run following command
+        - {makemigrations Shareback_App} ("See changes in models.py and generates customization file in migrations/0001_init.py")
+        - {sqlmigrate Shareback_App 0001} ("Prints the sql commands that django is going to execute")

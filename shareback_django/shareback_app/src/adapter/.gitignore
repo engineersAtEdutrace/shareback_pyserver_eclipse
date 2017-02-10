@@ -1,0 +1,11 @@
+/FeedbackGetAdapter.pyc
+/FeedbackInsertAdapter.pyc
+/FileCopyAdapter.pyc
+/FileDeleteAdapter.pyc
+/FileLsAdapter.pyc
+/FileMkdirAdapter.pyc
+/FileMoveAdapter.pyc
+/FileRenameAdapter.pyc
+/FileUploadAdapter.pyc
+/PreviousSessionsAdapter.pyc
+/__init__.pyc
